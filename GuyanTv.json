@@ -21,6 +21,13 @@
     "allowOffline": true
   },
   {
+    "id": "05b1df1751d0e768",
+    "username": "6285369089813",
+    "password": "guyantv",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
